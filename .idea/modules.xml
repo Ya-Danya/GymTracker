@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GymTracker.iml" filepath="$PROJECT_DIR$/.idea/GymTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authenticationService/authenticationService.iml" filepath="$PROJECT_DIR$/authenticationService/authenticationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateWayService/gateWayService.iml" filepath="$PROJECT_DIR$/gateWayService/gateWayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trainingService/trainingService.iml" filepath="$PROJECT_DIR$/trainingService/trainingService.iml" />
+    </modules>
+  </component>
+</project>
